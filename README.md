@@ -1,2 +1,2 @@
-# dataquest
+# Dataquest
 Projects in dataquest course
